@@ -2,39 +2,33 @@
 decorations = "none"
 padding = { x = 18, y = 14 }
 opacity = 0.5
-
 [colors.primary]
 background = "#1c1e24"
-foreground = "#e8eaf0"
-
+foreground = "#c8cde0"
 [colors.cursor]
 text = "#1c1e24"
-cursor = "#a8c7fa"
-
+cursor = "#5b9cf0"
 [colors.normal]
-black   = "#2a2c35"
-red     = "#e07575"
-green   = "#7ecf6a"
-yellow  = "#e8c468"
-blue    = "#a8c7fa"
-magenta = "#c9a8f5"
-cyan    = "#7dd8d3"
-white   = "#dde1ec"
-
+black   = "#484c5c"
+red     = "#d95f6e"
+green   = "#5ec47a"
+yellow  = "#d4a84b"
+blue    = "#5b9cf0"
+magenta = "#a87ee8"
+cyan    = "#3ec8c0"
+white   = "#c4c9dc"
 [colors.bright]
-black   = "#4a4d58"
-red     = "#f08080"
-green   = "#93e07a"
-yellow  = "#f5d380"
-blue    = "#c2d8ff"
-magenta = "#dbbfff"
-cyan    = "#94e8e3"
-white   = "#f0f2ff"
-
+black   = "#484c5c"
+red     = "#e87070"
+green   = "#78d98e"
+yellow  = "#e8c060"
+blue    = "#82b8ff"
+magenta = "#c49dff"
+cyan    = "#60ddd8"
+white   = "#e8ecf8"
 [colors.selection]
 text = "#1c1e24"
-background = "#a8c7fa"
-
+background = "#5b9cf0"
 [colors.vi_mode_cursor]
 text   = "#1c1e24"
-cursor = "#a8c7fa"
+cursor = "#5b9cf0"
